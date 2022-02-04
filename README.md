@@ -6,4 +6,4 @@ https://drive.google.com/file/d/1Bn7EVmtxADKTyBBTWZjdF-H_N_n3CL2o/view?usp=shari
 192.168.1.254
 192.168.56.1
 ./ngrok authtoken 24bo3rq5M0hZcnpQQBMjNSQiJ3V_3njv9EL3fKBxeaWtXz75Q
-http://f9cf-2400-1a00-b1e0-4a1d-a43f-b3f-a7f4-feed.ngrok.io
+
